@@ -3,6 +3,8 @@ import nodemailer from "nodemailer";
 
 const contactRoute = express.Router();
 
+contactRoute.get("/contact", (req, res) => console.log("Contact route is working"));
+
 contactRoute.post("/contact", async (req, res) => {
   console.log("form working");
   const { name, email, message } = req.body;

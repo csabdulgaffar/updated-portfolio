@@ -1,5 +1,5 @@
-# Aftab's Portfolio Website
-You can visit the live website here: [Technophile](https://devaftab.xyz/)
+# Abdul's Portfolio Website
+You can visit the live website here: 
 
 ## Overview
 
@@ -31,7 +31,7 @@ To run this project locally, you will need a web browser. You can use any modern
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/devaftab/Portfolio.git
+   git clone https://github.com/csabdulgaffar/updated-portfolio
    
 2. **Navigate to the project directory and install dependencies:**
 
@@ -68,8 +68,8 @@ To run this project locally, you will need a web browser. You can use any modern
 
 **Contact**<br/>
   If you have any questions or would like to collaborate, feel free to reach out to me:<br/><br/>
-  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:web.dev.aftab@gamil.com)<br/>
+  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:csbadulgaffar@gamil.com)<br/>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/devaftab/) <br/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/csbabdulgaffar/) <br/>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/devaftab/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/csabdulgaffar/)
