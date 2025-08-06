@@ -25,21 +25,21 @@ function Home() {
     <section className="home" id="home">
       <div className="social">
         <a
-          href="https://github.com/devaftab"
+          href="https://github.com/csabdulgaffar"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="bx bxl-github"></i>
         </a>
         <a
-          href="https://www.linkedin.com/in/devaftab/"
+          href="https://www.linkedin.com/in/csabdulgaffar/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="bx bxl-linkedin"></i>
         </a>
         <a
-          href="mailto:web.dev.aftab@gmail.com"
+          href="mailto:csabdulgaffar@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -51,12 +51,11 @@ function Home() {
       </div>
       <div className="home-text">
         <span>Hello, I'm</span>
-        <h1>Mohd Aftab</h1>
+        <h1>Abdul Gaffar</h1>
         <div className="typed-box"><h2 className="typing"></h2></div>
 
         <p>
-          I am a rapid learner focused on my goal. I always try new technologies to
-          add to my skills.
+          I'm a dedicated learner with a clear focus on my goals, consistently exploring new technologies to enhance my skills.
         </p>
         <a href="#contact" className="btn">
           Contact Me

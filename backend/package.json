@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Aftab",
+  "description": "portfolio",
   "main": "app.js",
   "type": "module",
   "scripts": {

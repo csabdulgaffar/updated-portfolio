@@ -26,7 +26,7 @@ contactRoute.post("/contact", async (req, res) => {
     const mailOptions = {
       from: email,
       to: process.env.RECEIVER_EMAIL,
-      subject: `Message from ${name} (devaftab)`,
+      subject: `Message from ${name} (Abdul Gaffar)`,
       text: message,
       html: `
         <h3>Client Details</h3>
