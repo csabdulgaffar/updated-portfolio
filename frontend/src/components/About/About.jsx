@@ -32,7 +32,7 @@ function About() {
                             <span>csabdulgaffar@gmail.com</span>
                         </div>
                     </div>
-                    <a href="https://drive.google.com/file/d/1t-1y8ylPzTsiswSa7g_uWZx90Z5dYmaF/view?usp=sharing" target="_blank" className="btn cv-btn">Download CV</a>
+                    <a href="https://drive.google.com/file/d/1EPHWzqntdDYjCK8N7oOPr-ZmN0P31RWh/view?usp=sharing" target="_blank" className="btn cv-btn">Download CV</a>
                 </div>
             </div>
         </section>
