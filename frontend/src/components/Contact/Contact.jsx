@@ -24,7 +24,7 @@ function Contact() {
         }
 
         try {
-            const response = await axios.post("https://myportfolio-api-rho.vercel.app/api/contact", { name, email, message });
+            const response = await axios.post("https://updated-portfolio-ycu3.onrender.com/api/contact", { name, email, message });
             setModalMessage(response.data.message);
             setIsModalOpen(true);
             setName('');
