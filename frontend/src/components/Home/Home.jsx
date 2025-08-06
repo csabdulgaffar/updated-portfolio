@@ -6,7 +6,7 @@ function Home() {
 
   useEffect(() => {
     const options = {
-      strings: ["Mern Stack Developer", "Designer", "Programmer"],
+      strings: ["Problem Solver", "Software Developer", "MMA Enthusiast", "Backpacker"],
       typeSpeed: 100,
       backSpeed: 60,
       cursorChar: "",
@@ -47,7 +47,7 @@ function Home() {
         </a>
       </div>
       <div className="home-img">
-        <img src="/img/profile_img.png" alt="Profile" />
+        <img src="/img/image1.jpeg" alt="Profile" />
       </div>
       <div className="home-text">
         <span>Hello, I'm</span>

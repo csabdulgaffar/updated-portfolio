@@ -42,7 +42,7 @@ function Navbar() {
 
     return (
         <header>
-            <a href="#" className="logo">Techno<span>phile</span></a>
+            <a href="#" className="logo">AG<span>iorithmics</span></a>
             <div className="bx bx-menu" id="menu-icon"></div>
             <ul className="navbar">
                 <li><a href="#home">Home</a></li>

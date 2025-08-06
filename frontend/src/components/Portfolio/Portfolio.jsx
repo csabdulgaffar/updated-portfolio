@@ -10,7 +10,7 @@ function Portfolio() {
             </div>
             <div className="portfolio-content">
                 <div className="portfolio-items block">
-                    <img className="portfolio-img" src="/img/projects/p1.png" alt="Portfolio" />
+                    <img className="portfolio-img" src="/img/projects/image2.png" alt="Portfolio" />
                     <span>This is a personal portfolio website developed to showcase my skills, projects, and experiences. The website is built using MERN Stack, and it features a clean and modern design. It is fully responsive, ensuring it looks great on all devices.</span>
                     {/* <div className="links">
                         <a href="https://github.com/csabdulgaffar/updated-portfolio" target="_blank">
